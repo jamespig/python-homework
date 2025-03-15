@@ -1,3 +1,2 @@
-# python-homework
-This is a school project for Python.
-It's a game about river crossing puzzle.
+# River Crossing Puzzle
+A project for Python course.
